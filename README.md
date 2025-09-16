@@ -1,6 +1,6 @@
 # Mini-Projet DevOps – CI/CD avec GitHub Actions
 
-## Objectif
+## Objectif:
 Développer une page HTML dédiée à votre groupe, intégrée dans une application Flask, et soumise à un pipeline CI/CD via GitHub Actions.
 
 ## Niveau 1 : Intégration ([aide: Fiche-CI](Fiche-CI.md)) 
