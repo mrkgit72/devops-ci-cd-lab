@@ -65,9 +65,10 @@ jobs:
         run: docker push ${{ secrets.DOCKER_USERNAME }}/devops-tp
 
 ```
-4. git add .
-5. git commit -m "votre message"
-6. git push 
+
+4. `git add .`
+5. `git commit -m "votre message"`
+6. `git push` 
 
 5. si tout se passe bien, votre nouvelle image est sur Docker Hub
 
