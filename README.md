@@ -1,4 +1,5 @@
-# Mini-Projet DevOps – CI/CD avec GitHub Actions
+# Mini-Projet DevOps – CI/CD avec GitHub Actions 
+> (from devops-v2 sinbrive)
 
 ## Objectif
 Développer une page HTML dédiée à votre groupe, intégrée dans une application Flask, et soumise à un pipeline CI/CD via GitHub Actions.
